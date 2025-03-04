@@ -36,3 +36,6 @@
 # dideli_smugiu_rezultatas = dideli_smugiai()
 # print(f"Smūgių skaičius dideliems smūgiams: {dideli_smugiu_rezultatas}")
 
+
+Print("hi")
+
